@@ -196,3 +196,4 @@ if (!rootElement) {
 }
 const root = ReactDOM.createRoot(rootElement);
 root.render(e(React.StrictMode, null, e(App)));
+

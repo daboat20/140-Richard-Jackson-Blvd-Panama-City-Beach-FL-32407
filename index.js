@@ -5,8 +5,8 @@ const e = React.createElement;
 const BROCHURE_URL = 'https://example.com/property-brochure.pdf';
 
 const IMAGES = [
-    './images/f1ddaa365240411c984c0774e0344cee_3000x2000_resize.jpg',
-    './images/0d0d31be05a54db784d3a4e7b54855a3_3000x2000_resize.jpg',
+    './images/22e914a7e6dc4b88b609f1bd6602558b_900x600_resize.jpg',
+    './images/9617b300153c4461a273bf1102e87156_3000x2000_resize.jpg',
     './images/0ad33502-b93e-4a72-a8d2-46a1c0d5d527.png',
     './images/staticmap.png',
 ];
